@@ -28,6 +28,4 @@ const Single = ({item}) => {
   );
 };
 
-
-
 export default Single;
